@@ -1,4 +1,4 @@
-
+# 프로그래머스
 def solution(participant, completion):
     d = dict()
     for p in participant:
