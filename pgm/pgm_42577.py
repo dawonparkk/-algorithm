@@ -4,3 +4,4 @@ def solution(phone_book):
         if p2.startswith(p1):
             return False
     return True
+ 
